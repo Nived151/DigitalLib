@@ -2,7 +2,7 @@
 
 ## Overview
 
-Collection of Digital Library in cadence of 45nm
+Collection of Digital Library in Cadence Virtuoso of 45nm
 
 [**`NOT Gate`**](https://github.com/Nived151/DigitalLib/tree/main/notgate)
 
