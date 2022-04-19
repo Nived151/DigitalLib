@@ -11,7 +11,10 @@ Collection of Digital Library in cadence of 45nm
 **`NOT Gate Output`**
 
 ![NOT Gate Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/not%20out.png?raw=true)
-'''
+
+
+
+
 **`AND Gate`**
 
 ![AND Gate Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/and.png?raw=true)
