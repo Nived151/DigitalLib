@@ -81,13 +81,13 @@ Collection of Digital Library in cadence of 45nm
 <br/>
 <br/>
 
-[**`Master Slave D-Flip Flop`**]()
+[**`Master Slave D-Flip Flop`**](https://github.com/Nived151/DigitalLib/tree/main/Master%20Slave%20D-%20Flip%20Flop)
 
-![Master Slave D-Flip Flop]()
+![Master Slave D-Flip Flop](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/master%20slave.png?raw=true)
 
 **`Master Slave D-Flip Flop Output`**
 
-![Master Slave D-Flip Flop Output]()
+![Master Slave D-Flip Flop Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/master%20slave%20out.png?raw=true)
 
 <br/>
 <br/>
@@ -103,13 +103,13 @@ Collection of Digital Library in cadence of 45nm
 <br/>
 <br/>
 
-[**`4-bit Counter`**]()
+[**`4-bit Counter`**](https://github.com/Nived151/DigitalLib/tree/main/4-Bit%20Counter)
 
-![4-bit counter]()
+![4-bit counter](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/counter.png?raw=true)
 
 **`4-bit counter Ouptput`**
 
-![4-bit counter Ouptput]()
+![4-bit counter Ouptput](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/counter%20out.png?raw=true)
 
 <br/>
 <br/>
