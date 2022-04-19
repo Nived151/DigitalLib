@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cadence
+HostName                       cadencesys26
+ProcessIdentifier              28774
+ProcessCreationTime_UTC        1650297465
+ProcessCreationTime_Readable   Mon Apr 18 21:27:45 2022 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cadence/JAY/masterslavedflipflop/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Apr 18 21:30:08 2022 IST
