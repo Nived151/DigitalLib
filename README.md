@@ -85,7 +85,7 @@ Collection of Digital Library in cadence of 45nm
 
 **`Digital to Analog Converter`**
 
-![Digital to Analog Converter]()
+![Digital to Analog Converter](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/dac.png?raw=true)
 
 **`Digital to Analog Converter Output`**
 
@@ -93,7 +93,7 @@ Collection of Digital Library in cadence of 45nm
 
 **`SRAM`**
 
-![SRAM]()
+![SRAM](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/sram.png?raw=true)
 
 **`SRAM Output`**
 
