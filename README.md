@@ -107,11 +107,11 @@ Collection of Digital Library in cadence of 45nm
 
 ![4-bit counter](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/counter.png?raw=true)
 
+*Here melove is Master Slave D-Flip Flop
+
 **`4-bit counter Ouptput`**
 
 ![4-bit counter Ouptput](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/counter%20out.png?raw=true)
-
-*Here melove is Master Slave D-Flip Flop
 
 <br/>
 <br/>
