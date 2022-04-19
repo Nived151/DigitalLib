@@ -13,6 +13,7 @@ Collection of Digital Library in cadence of 45nm
 ![NOT Gate Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/not%20out.png?raw=true)
 
 <br/>
+<br/>
 
 **`AND Gate`**
 
@@ -22,12 +23,18 @@ Collection of Digital Library in cadence of 45nm
 
 ![AND Gate Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/and%20out.png?raw=true)
 
+<br/>
+<br/>
+
 **`NAND Gate`**
 ![NAND Gate](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/nand.png?raw=true)
 
 **`NAND Gate Output`**
 
 ![NAND Gate Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/nand%20out.png?raw=true)
+
+<br/>
+<br/>
 
 **`XOR Gate`**
 
@@ -37,6 +44,9 @@ Collection of Digital Library in cadence of 45nm
 
 ![XOR Gate](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/xor%20out.png?raw=true)
 
+<br/>
+<br/>
+
 **`6T XOR Gate`**
 
 ![6T XOR Gate](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/xorr.png?raw=true)
@@ -44,6 +54,9 @@ Collection of Digital Library in cadence of 45nm
 **`6T XOR Gate Output`**
 
 ![6T XOR Gate Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/xorr%20out.png?raw=true)
+
+<br/>
+<br/>
 
 **`Full Adder`**
 
@@ -53,6 +66,9 @@ Collection of Digital Library in cadence of 45nm
 
 ![Full Adder Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/adder%20out.png?raw=true)
 
+<br/>
+<br/>
+
 **`D-Flip Flop`**
 
 ![D-Flip Flop](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/ff.png?raw=true)
@@ -60,6 +76,9 @@ Collection of Digital Library in cadence of 45nm
 **`D-Flip Flop Output`**
 
 ![D-Flip Flop Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/ff%20out.png?raw=true)
+
+<br/>
+<br/>
 
 **`Master Slave D-Flip Flop`**
 
@@ -69,6 +88,9 @@ Collection of Digital Library in cadence of 45nm
 
 ![Master Slave D-Flip Flop Output]()
 
+<br/>
+<br/>
+
 **`Comparator`**
 
 ![Comparator](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/comp.png?raw=true)
@@ -76,6 +98,9 @@ Collection of Digital Library in cadence of 45nm
 **`Comparator Output`**
 
 ![Comparator Output](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/comp%20out.png?raw=true)
+
+<br/>
+<br/>
 
 **`4-bit Counter`**
 
@@ -85,6 +110,9 @@ Collection of Digital Library in cadence of 45nm
 
 ![4-bit counter Ouptput]()
 
+<br/>
+<br/>
+
 **`Digital to Analog Converter`**
 
 ![Digital to Analog Converter](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/dac.png?raw=true)
@@ -92,6 +120,9 @@ Collection of Digital Library in cadence of 45nm
 **`Digital to Analog Converter Output`**
 
 ![Digital to Analog Converter Output]()
+
+<br/>
+<br/>
 
 **`SRAM`**
 
