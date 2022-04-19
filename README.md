@@ -6,6 +6,8 @@ Collection of Digital Library in cadence of 45nm
 
 **`NOT Gate`**
 
+![NOT Gate](https://github.com/Nived151/DigitalLib/tree/main/notgate)
+
 ![NOT Gate](https://raw.githubusercontent.com/Nived151/DigitalLib/main/circuit%20diagram/or.png)
 
 **`NOT Gate Output`**
@@ -27,6 +29,7 @@ Collection of Digital Library in cadence of 45nm
 <br/>
 
 **`NAND Gate`**
+
 ![NAND Gate](https://github.com/Nived151/DigitalLib/blob/main/circuit%20diagram/nand.png?raw=true)
 
 **`NAND Gate Output`**
